@@ -133,6 +133,7 @@ document.querySelectorAll('.nav-link').forEach(link => {
 // Typing Animation
 const typingText = document.querySelector('.typing-text');
 const titles = [
+    'AI Engineer',
     'DevOps Lead',
     'Kubernetes Expert',
     'CI/CD Specialist',
